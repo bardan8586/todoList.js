@@ -20,3 +20,4 @@ This is a simple web application that allows users to toggle between a light and
    ```bash
    git clone https://github.com/yourusername/theme-toggle-app.git
    ```
+   
